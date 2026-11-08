@@ -1,0 +1,13 @@
+6 6
+Dallas
+Plano
+Frisco
+Denton
+Allen
+Austin
+Dallas Plano
+Plano Frisco
+Frisco Denton
+Denton Dallas
+Plano Allen
+Allen Frisco

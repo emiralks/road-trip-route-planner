@@ -1,0 +1,35 @@
+15 19
+Dallas
+Plano
+Frisco
+Denton
+Allen
+McKinney
+Richardson
+Garland
+Rockwall
+Mesquite
+Irving
+Grapevine
+Lewisville
+Arlington
+Fort_Worth
+Dallas Richardson US 75 (Central Expressway)
+Richardson Plano US 75 (Central Expressway)
+Plano Allen US 75 (Central Expressway)
+Allen McKinney US 75 (Central Expressway)
+Dallas Plano Dallas North Tollway (TOLL)
+Plano Frisco Dallas North Tollway (TOLL)
+Denton Frisco US 380 (northern Frisco boundary)
+Frisco McKinney US 380 (northern Frisco boundary)
+Dallas Lewisville I-35E
+Lewisville Denton I-35E
+Denton Fort_Worth I-35W
+Dallas Irving SH 183
+Irving Grapevine SH 114
+Grapevine Lewisville SH 121 / Sam Rayburn Tollway (TOLL portions)
+Dallas Arlington I-30
+Arlington Fort_Worth I-30
+Dallas Mesquite US 80
+Mesquite Garland I-30
+Garland Rockwall I-30

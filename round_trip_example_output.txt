@@ -1,0 +1,39 @@
+Road Trip Route Planner
+
+1. Show cities and roads
+2. Find shortest route
+3. Find route with fewer than x connections
+4. Find route through two required cities
+5. Find shortest round trip
+6. Find meeting city
+0. Exit
+Choice: Starting city: Route: Plano -> Richardson -> Dallas -> Lewisville -> Grapevine -> Irving -> Dallas -> Mesquite -> Garland -> Rockwall -> Garland -> Mesquite -> Dallas -> Arlington -> Fort_Worth -> Denton -> Frisco -> McKinney -> Allen -> Plano
+Total connections: 19
+  Plano -> Richardson via US 75 (Central Expressway)
+  Richardson -> Dallas via US 75 (Central Expressway)
+  Dallas -> Lewisville via I-35E
+  Lewisville -> Grapevine via SH 121 / Sam Rayburn Tollway (TOLL portions)
+  Grapevine -> Irving via SH 114
+  Irving -> Dallas via SH 183
+  Dallas -> Mesquite via US 80
+  Mesquite -> Garland via I-30
+  Garland -> Rockwall via I-30
+  Rockwall -> Garland via I-30
+  Garland -> Mesquite via I-30
+  Mesquite -> Dallas via US 80
+  Dallas -> Arlington via I-30
+  Arlington -> Fort_Worth via I-30
+  Fort_Worth -> Denton via I-35W
+  Denton -> Frisco via US 380 (northern Frisco boundary)
+  Frisco -> McKinney via US 380 (northern Frisco boundary)
+  McKinney -> Allen via US 75 (Central Expressway)
+  Allen -> Plano via US 75 (Central Expressway)
+
+1. Show cities and roads
+2. Find shortest route
+3. Find route with fewer than x connections
+4. Find route through two required cities
+5. Find shortest round trip
+6. Find meeting city
+0. Exit
+Choice: 

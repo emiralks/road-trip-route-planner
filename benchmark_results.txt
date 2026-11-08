@@ -1,0 +1,11 @@
+== Option 2 (BFS shortest route), E = 3V ==
+V=1000 E=3000 option2=.006132131s load_only=.004546211s
+V=10000 E=30000 option2=.021049311s load_only=.032655398s
+V=100000 E=300000 option2=.440319401s load_only=.442830463s
+V=1000000 E=3000000 option2=7.185234241s load_only=7.577970792s
+== Option 5 (exact round trip), E = 3K, start City_1 ==
+K=10 E=30 time=.005508122s result: Total connections: 10
+K=12 E=36 time=.007146209s result: Total connections: 12
+K=14 E=42 time=.007430177s result: Total connections: 14
+K=16 E=48 time=.013305043s result: Total connections: 16
+K=18 E=54 time=.060277247s result: Total connections: 18
